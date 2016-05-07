@@ -1,3 +1,5 @@
+Assignment completed by [Stephen Mayeux](http://stephenmayeux.com)
+
 assignment_rspec_ruby_sprint
 ============================
 
